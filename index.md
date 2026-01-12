@@ -7,7 +7,6 @@ Welcome to my personal site.
 <img
   src="/images/sam.png"
   alt="Sam"
-  style="max-width: 300px; width: 100%;"
 />
 
 ## Background
