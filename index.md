@@ -4,6 +4,8 @@ layout: default
 
 Welcome to my personal site.
 
+![Sam](/images/sam.png)
+
 ## Background
 
 TODO: fill me in.
