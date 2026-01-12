@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 Welcome to my personal site.
 
 ![Sam](/assets/images/sam.png){: .small-image }
