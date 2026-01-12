@@ -4,10 +4,7 @@ layout: default
 
 Welcome to my personal site.
 
-<img
-  src="/images/sam.png"
-  alt="Sam"
-/>
+![Sam](/assets/images/sam.png){: .small-image }
 
 ## Background
 
