@@ -1,11 +1,5 @@
-.small-image {
-    max-width: 150px;
-    width: 100%;
-    height: auto;
-}
-
 img[src$="sam.png"] {
-    max-width: 300px;
+    max-width: 150px;
     width: 100%;
     height: auto;
   }

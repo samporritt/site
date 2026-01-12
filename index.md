@@ -6,7 +6,7 @@ layout: default
 
 Welcome to my personal site.
 
-![Sam](/assets/images/sam.png){: .small-image }
+![Sam](/assets/images/sam.png)
 
 ## Background
 
