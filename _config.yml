@@ -1,6 +1,7 @@
 title: Sam Porritt
 theme: minima
-baseurl: "/site" 
+baseurl: "/site"
+favicon: "/assets/images/favicon.ico"
 
 header_pages:
   - index.md
