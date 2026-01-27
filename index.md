@@ -2,11 +2,12 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 Welcome to my personal site.
 
-![Sam](/assets/images/sam.png)
+<!-- The image size is set in custom.css -->
+![Sam]({{ '/assets/images/sam2.jpg' | relative_url }})
 
 ## Background
 

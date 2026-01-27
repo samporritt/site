@@ -1,5 +1,6 @@
 title: Sam Porritt
 theme: minima
+baseurl: "/site" 
 
 header_pages:
   - index.md
