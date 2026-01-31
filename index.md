@@ -15,6 +15,7 @@ TODO: fill me in.
   - [Geometric Designs](https://geometric-designs.onrender.com)  
     *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been recently accessed.*
   - Geometry paper
+  - [An ode to Euclid](./euclid)
 
 ## Academic writings
   - [Paper title (TODO)](https://arxiv.org/)  
