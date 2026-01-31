@@ -24,14 +24,13 @@ We dene a pair of conic sections associated to a triangle and one of its Cevian 
 </details>
 
   - [An ode to Euclid](pdfs/euclid-coloured-circles.pdf)
-  - [PDF](papers/my_paper_2024.pdf)
 
 ## Academic writings
+  - 
   - Most of my published papers can be found on the [arxiv](https://arxiv.org/search/math?searchtype=author&query=Porritt%2C+S)  
-  - [Paper title (TODO)](https://arxiv.org/)  
 
 ## Expository
   - Some notes on [complex numbers](./complex-numbers)
-  - [An ode to Euclid](./euclid)
+  - [An ode to Euclid](pdfs/euclid-coloured-circles.pdf)
 
 [My LinkedIn](https://www.linkedin.com/in/sam-porritt-b89086193/)
