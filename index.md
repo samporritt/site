@@ -11,15 +11,16 @@ layout: default
 
 TODO: fill me in.
 
-## Links
+# Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
     *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been recently accessed.*
+  - Geometry paper
 
-- **Papers**
+# Academic writings
   - [Paper title (TODO)](https://arxiv.org/)  
 
-- **Writing**
-  - [An ode to Euclid](./euclid)
+# Expository
   - [Complex numbers](./complex-numbers)
+  - [An ode to Euclid](./euclid)
 
 - [LinkedIn](https://www.linkedin.com/in/sam-porritt-b89086193/)
