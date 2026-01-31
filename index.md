@@ -7,9 +7,7 @@ layout: default
 <!-- The image size is set in custom.css -->
 ![Sam]({{ '/assets/images/sam3.jpg' | relative_url }})
 
-## Background
-
-TODO: fill me in.
+Hello this is a bit about me.
 
 ## Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
