@@ -12,7 +12,7 @@ Hello this is a bit about me.
 ## Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
     *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been recently accessed.*
-  - Geometry paper
+  - Geometry paper [Conics paper](https://drive.google.com/file/d/1MMWQWNVznP_rPRq_pCS-0Lm1Q4xVSidF/view)
   - [An ode to Euclid](./euclid)
 
 ## Academic writings
@@ -20,7 +20,7 @@ Hello this is a bit about me.
   - [Paper title (TODO)](https://arxiv.org/)  
 
 ## Expository
-  - [Complex numbers](./complex-numbers)
+  - Some notes on [complex numbers](./complex-numbers)
   - [An ode to Euclid](./euclid)
 
 [My LinkedIn](https://www.linkedin.com/in/sam-porritt-b89086193/)
