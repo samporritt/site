@@ -7,7 +7,7 @@ layout: default
 Welcome to my personal site.
 
 <!-- The image size is set in custom.css -->
-![Sam]({{ '/assets/images/sam2.jpg' | relative_url }})
+![Sam]({{ '/assets/images/sam3.jpg' | relative_url }})
 
 ## Background
 
