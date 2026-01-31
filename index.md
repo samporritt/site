@@ -16,6 +16,7 @@ Hello this is a bit about me.
   - [An ode to Euclid](./euclid)
 
 ## Academic writings
+  - Most of my published papers can be found on the [arxiv]([https://arxiv.org/](https://arxiv.org/search/math?searchtype=author&query=Porritt%2C+S)  
   - [Paper title (TODO)](https://arxiv.org/)  
 
 ## Expository
