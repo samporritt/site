@@ -13,7 +13,7 @@ TODO: fill me in.
 
 ## Links
   - [Geometric Designs](https://geometric-designs.onrender.com)  
-    *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been accessed in a while.*
+    *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been recently accessed.*
 
 - **Papers**
   - [Paper title (TODO)](https://arxiv.org/)  
