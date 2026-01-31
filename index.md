@@ -23,7 +23,7 @@ We dene a pair of conic sections associated to a triangle and one of its Cevian 
   </p>
 </details>
 
-  - [An ode to Euclid](./euclid)
+  - [An ode to Euclid](pdfs/euclid-coloured-circles.pdf)
   - [PDF](papers/my_paper_2024.pdf)
 
 ## Academic writings
