@@ -12,7 +12,6 @@ layout: default
 TODO: fill me in.
 
 ## Links
-  - [LinkedIn](https://www.linkedin.com/in/sam-porritt-b89086193/)
   - [Geometric Designs](https://geometric-designs.onrender.com)  
     *A collection of geometric artworks I created. Please note: this site can take 90 seconds to initially load.*
 
@@ -22,3 +21,5 @@ TODO: fill me in.
 - **Writing**
   - [An ode to Euclid](./euclid)
   - [Complex numbers](./complex-numbers)
+
+- [LinkedIn](https://www.linkedin.com/in/sam-porritt-b89086193/)
