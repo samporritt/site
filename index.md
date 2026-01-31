@@ -23,4 +23,4 @@ TODO: fill me in.
   - [Complex numbers](./complex-numbers)
   - [An ode to Euclid](./euclid)
 
-- [LinkedIn](https://www.linkedin.com/in/sam-porritt-b89086193/)
+[LinkedIn](https://www.linkedin.com/in/sam-porritt-b89086193/)
