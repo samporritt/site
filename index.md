@@ -13,7 +13,7 @@ TODO: fill me in.
 
 ## Links
   - [Geometric Designs](https://geometric-designs.onrender.com)  
-    *A collection of geometric artworks I created. Please note: this site can take 90 seconds to initially load.*
+    *A collection of geometric artworks I created. Warning: this site can take 90 seconds to initially load.*
 
 - **Papers**
   - [Paper title (TODO)](https://arxiv.org/)  
