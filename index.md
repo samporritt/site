@@ -11,15 +11,15 @@ layout: default
 
 TODO: fill me in.
 
-# Euclidean Geometry
+## Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
     *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been recently accessed.*
   - Geometry paper
 
-# Academic writings
+## Academic writings
   - [Paper title (TODO)](https://arxiv.org/)  
 
-# Expository
+## Expository
   - [Complex numbers](./complex-numbers)
   - [An ode to Euclid](./euclid)
 
