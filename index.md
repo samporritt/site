@@ -10,9 +10,9 @@ layout: default
 Hello this is a bit about me.
 
 ## Academic
-  - A link to my [papers](./publications)
-  - Most of my published papers can also be found on the [arxiv](https://arxiv.org/search/math?searchtype=author&query=Porritt%2C+S)
-  - My PhD [thesis](pdfs/thesis.pdf)
+  - A link to my [papers](./publications).
+  - Most of my published papers can also be found on the [arxiv](https://arxiv.org/search/math?searchtype=author&query=Porritt%2C+S).
+  - My PhD [thesis](pdfs/thesis.pdf) - *Some problems in the analytic number theory of polynomials over a finite field.*
 
 ## Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
