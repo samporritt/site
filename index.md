@@ -9,6 +9,11 @@ layout: default
 
 Hello this is a bit about me.
 
+## Academic
+  - A link to my [papers](./publications)
+  - Most of my published papers can also be found on the [arxiv](https://arxiv.org/search/math?searchtype=author&query=Porritt%2C+S)
+  - My PhD [thesis](pdfs/thesis.pdf)
+
 ## Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
     *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been recently accessed.*
@@ -19,18 +24,14 @@ Hello this is a bit about me.
 <details>
   <summary>Show abstract</summary>
   <p>
-We dene a pair of conic sections associated to a triangle and one of its Cevian triangles and discuss some of their properties in light of computer veried algebraic identities.
+We define a pair of conic sections associated to a triangle and one of its Cevian triangles and discuss some of their properties in light of computer veried algebraic identities.
   </p>
 </details>
 
   - [An ode to Euclid](pdfs/euclid-coloured-circles.pdf)
 
-## Academic writings
-  - 
-  - Most of my published papers can be found on the [arxiv](https://arxiv.org/search/math?searchtype=author&query=Porritt%2C+S)  
-
 ## Expository
-  - Some notes on [complex numbers](./complex-numbers)
+  - Some notes on [complex numbers](pdfs/complex-numbers.pdf)
   - [An ode to Euclid](pdfs/euclid-coloured-circles.pdf)
 
 [My LinkedIn](https://www.linkedin.com/in/sam-porritt-b89086193/)
