@@ -17,16 +17,8 @@ Hello this is a bit about me.
 ## Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
     *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been recently accessed.*
-  - [conics paper](https://drive.google.com/file/d/1MMWQWNVznP_rPRq_pCS-0Lm1Q4xVSidF/view)
-<p>
-  <strong>Paper title</strong><br>
-</p>
-<details>
-  <summary>Show abstract</summary>
-  <p>
-We define a pair of conic sections associated to a triangle and one of its Cevian triangles and discuss some of their properties in light of computer veried algebraic identities.
-  </p>
-</details>
+  - Here is a [paper](https://drive.google.com/file/d/1MMWQWNVznP_rPRq_pCS-0Lm1Q4xVSidF/view) in which *"we define a pair of conic sections associated to a triangle and one of its Cevian triangles and discuss some of their properties in light of computer veried algebraic identities"*.
+
 
   - [An ode to Euclid](pdfs/euclid-coloured-circles.pdf)
 
