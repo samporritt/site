@@ -7,4 +7,4 @@ To run locally:
 TODO
  - papers page
  - add pdfs - complex nums and thesis
- - 
+ - move repo desktop/sam
