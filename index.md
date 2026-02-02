@@ -10,7 +10,7 @@ layout: default
 I completed my PhD in Analytic Number Theory in 2020, and have since been working as a Model Validation Quantitative Analyst. Here is my [linkedin](https://www.linkedin.com/in/sam-porritt-b89086193/).
 
 ## Academic
-  - A link to my [papers](./publications).
+  - A link to my [papers](./papers).
   - Most of my published papers can also be found on the [arxiv](https://arxiv.org/search/math?searchtype=author&query=Porritt%2C+S).
   - My PhD [thesis](pdfs/thesis.pdf) - *Some problems in the analytic number theory of polynomials over a finite field.*
 
