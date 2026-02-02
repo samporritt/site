@@ -1,13 +1,15 @@
 # Papers
+**Character sums over products of prime polynomials** |
+[arxiv link](https://arxiv.org/abs/2003.12002)
+
 <p>
-  <strong>Character sums over products of prime polynomials</strong><br>
+  <em>
+    We study sums of Dirichlet characters over polynomials in $ \mathbb{F}_q[x] $ with a prescribed number of irreducible factors.
+    Our main results are explicit formulae for these sums in terms of zeros of Dirichlet L-functions.
+    We also exhibit new phenomena concerning Chebyshev-type biases of such sums when the number of irreducible factors is very large.
+  </em>
 </p>
-<details>
-  <summary>Show abstract</summary>
-  <p>
-We study sums of Dirichlet characters over polynomials in F with a prescribed number of irreducible factors. Our main results are explicit formulae for these sums in terms of zeros of Dirichlet L-functions. We also exhibit new phenomena concerning Chebyshev-type biases of such sums when the number of irreducible factors is very large.
-  </p>
-</details>
+
 
 TODO
 - Neaten the above
