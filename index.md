@@ -12,7 +12,7 @@ I completed my PhD in Analytic Number Theory in 2020, and have since been workin
 ## Academic
   - A link to my [papers](./papers).
   - Most of my published papers can also be found on the [arxiv](https://arxiv.org/search/math?searchtype=author&query=Porritt%2C+S).
-  - My PhD [thesis](pdfs/thesis.pdf) - *Some problems in the analytic number theory of polynomials over a finite field.*
+  - My PhD [thesis](pdfs/Porritt_thesis.pdf) - *Some problems in the analytic number theory of polynomials over a finite field.*
 
 ## Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
@@ -20,5 +20,5 @@ I completed my PhD in Analytic Number Theory in 2020, and have since been workin
   - Here is a [paper](https://drive.google.com/file/d/1MMWQWNVznP_rPRq_pCS-0Lm1Q4xVSidF/view) in which two conic sections associated to a triangle are shown to be related in a way I find quite interesting. The main proof relies on computer veried algebraic identities.
 
 ## Expository
-  - Some notes on [complex numbers](pdfs/complex-numbers.pdf)
+  - Some notes on [complex numbers](pdfs/complex-notes.pdf)
   - [An ode to Euclid](pdfs/euclid-coloured-circles.pdf)

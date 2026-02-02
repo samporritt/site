@@ -84,9 +84,5 @@ restricted to lie in a given subset of Fq.
 </p>
 
 
-TODO
-- Add latex snippets from abstracts
-- Link to arxiv page and paper page (except #1) "Published version | arxiv"
-- Start with the most recent
-- add the geometry paper too - no arxiv link, see link on main page
+TODO: Add latex snippets from abstracts
   
