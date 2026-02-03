@@ -22,4 +22,4 @@ I completed my PhD in Analytic Number Theory in 2020, and have since been workin
 ## Expository
   - Some notes on [complex numbers](pdfs/complex-notes.pdf)
   - [An ode to Euclid](pdfs/euclid-coloured-circles.pdf)
-  - [Calkdust](https://chalkdustmagazine.com/author/sam-porritt/)
+  - "A magazine for the mathematically curious" [Chalkdust](https://chalkdustmagazine.com/author/sam-porritt/)
