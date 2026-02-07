@@ -7,7 +7,7 @@ layout: default
 <!-- The image size is set in custom.css -->
 ![Sam]({{ '/assets/images/sam3.jpg' | relative_url }})
 
-I completed my PhD in Analytic Number Theory in 2020, and have since been working as a Model Validation Quantitative Analyst. Here is my [linkedin](https://www.linkedin.com/in/sam-porritt-b89086193/).
+I completed my PhD in Analytic Number Theory in 2020, and have since been working as a model validation quantitative analyst. Here is my [linkedin](https://www.linkedin.com/in/sam-porritt-b89086193/).
 
 ## Academic
   - A link to my [papers](./papers).
