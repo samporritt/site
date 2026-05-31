@@ -26,7 +26,7 @@ title: Papers
 
 <p>
   <em>
-    We define a pair of conic sections associated to a triangle and one of its Cevian triangles and discuss some of their properties in light of computer veried algebraic identities.
+    We define a pair of conic sections associated to a triangle and one of its Cevian triangles and discuss some of their properties in light of computer verified algebraic identities.
   </em>
 </p>
 
@@ -49,7 +49,7 @@ title: Papers
 
 <p>
   <em>
-    We investigate the distribution of the function , the number of distinct prime divisors of , in residue classes modulo  for natural numbers  greater than 2. In particular we ask `prime number races' style questions, as suggested by Coons and Dahmen in their paper `On the residue class distribution of the number of prime divisors of an integer'.
+    We investigate the distribution of the function $\omega(n)$, the number of distinct prime divisors of $n$, in residue classes modulo $q$ for natural numbers $q$ greater than 2. In particular we ask `prime number races' style questions, as suggested by Coons and Dahmen in their paper `On the residue class distribution of the number of prime divisors of an integer'.
   </em>
 </p>
 
@@ -58,7 +58,7 @@ title: Papers
 
 <p>
   <em>
-    In 1991, Baker and Harman proved, under the assumption of the generalized Riemann hypothesis, that . The purpose of this note is to deduce an analogous bound in the context of polynomials over a finite field using Weil's Riemann Hypothesis for curves over a finite field. Our approach is based on the work of Hayes who studied exponential sums over irreducible polynomials
+In 1991, Baker and Harman proved, under the assumption of the generalized Riemann hypothesis, that $\max_{ \theta \in [0,1) }\left|\sum_{ n \leq x } \mu(n) e(n \theta) \right| \ll_\epsilon x^{3/4 + \epsilon}$. The purpose of this note is to deduce an analogous bound in the context of polynomials over a finite field using Weil's Riemann Hypothesis for curves over a finite field. Our approach is based on the work of Hayes who studied exponential sums over irreducible polynomials.
   </em>
 </p>
 
@@ -67,10 +67,7 @@ title: Papers
 
 <p>
   <em>
-    We prove a function ûeld analogue of Maynard’s celebrated result about primes with re
-stricted digits. _at is, for certain ranges of parameters n and q, we prove an asymptotic formula
-for the number of irreducible polynomials of degree n over a ûnite ûeld Fq whose coeõcients are
-restricted to lie in a given subset of Fq.
+We prove a function field analogue of Maynard's result about primes with restricted digits. That is, for certain ranges of parameters n and q, we prove an asymptotic formula for the number of irreducible polynomials of degree n over a finite field $\mathbb{F}_q$ whose coefficients are restriced to lie in a given subset of $\mathbb{F}_q$.
   </em>
 </p>
 
@@ -79,10 +76,6 @@ restricted to lie in a given subset of Fq.
 
 <p>
   <em>
-    We use a function field analogue of a method of Selberg to derive an asymptotic formula for the number of (square-free) monic polynomials in \mathbb{F}_q[X] of degree n with precisely k irreducible factors, in the limit as n tends to infinity. We then adapt this method to count such polynomials in arithmetic progressions and short intervals, and by making use of Weil's `Riemann hypothesis' for curves over \mathbb{F}_q, obtain better ranges for these formulae than are currently known for their analogues in the number field setting. Finally, we briefly discuss the regime in which q tends to infinity.
+We use a function field analogue of a method of Selberg to derive an asymptotic formula for the number of (square-free) monic polynomials in $\mathbb{F}_q[X]$ of degree n with precisely $k$ irreducible factors, in the limit as $n$ tends to infinity. We then adapt this method to count such polynomials in arithmetic progressions and short intervals, and by making use of Weil's `Riemann hypothesis' for curves over $\mathbb{F}_q$, obtain better ranges for these formulae than are currently known for their analogues in the number field setting. Finally, we briefly discuss the regime in which $q$ tends to infinity
   </em>
 </p>
-
-
-TODO: Add latex snippets from abstracts
-  
