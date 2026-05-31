@@ -16,7 +16,7 @@ I completed my PhD in Analytic Number Theory in 2020, and have since been workin
 
 ## Euclidean Geometry
   - [Geometric Designs](https://geometric-designs.onrender.com)  
-    *A collection of geometric artworks I created. Warning: the side can can a minute or two to load if it hasn't been recently accessed.*
+    *A collection of geometric artworks I created. Warning: the site can take a minute or two to load if it hasn't been recently accessed.*
   - Here is a [paper](https://drive.google.com/file/d/1MMWQWNVznP_rPRq_pCS-0Lm1Q4xVSidF/view) in which two conic sections associated to a triangle are shown to be related in a way I find quite interesting. The main proof relies on computer veried algebraic identities.
 
 ## Expository
