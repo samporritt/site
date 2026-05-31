@@ -53,7 +53,7 @@ title: Papers
   </em>
 </p>
 
-**A note on exponential-Möbius sums over  Fq[t]** \|
+**A note on exponential-Möbius sums over  $ \mathbb{F}_q[t] $** \|
 [arxiv link](https://arxiv.org/abs/1711.08729) \| [publication](https://www.sciencedirect.com/science/article/pii/S1071579718300236)
 
 <p>
